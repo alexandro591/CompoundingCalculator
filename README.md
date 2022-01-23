@@ -1,4 +1,4 @@
-# CompoundingCalculator for jerks
+# Compounding calculator
 
 ## How to use it
 
